@@ -35,9 +35,9 @@ lsh> sleep 20&
 25338 exited normally
 lsh>
 lsh> exit
------------------------
 
 TODO:
+-----------------------
 +   obsluga procesu w tle przy &
 -   zmienic wait, wypisuje jak ma kolejny background, lepiej jak by wypisywalo przy kolejnej komendzie
 +   ctrl+c dla komendy
