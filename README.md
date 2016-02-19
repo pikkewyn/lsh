@@ -1,0 +1,2 @@
+# lsh
+very lazy shell
